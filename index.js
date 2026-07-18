@@ -1,0 +1,1 @@
+console.log('Project node example with Dockerfile 🐳 is ready 🟢!');
